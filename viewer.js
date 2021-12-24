@@ -49,7 +49,7 @@ const defaultOptions = {
     kind: OptionKind.VIEWER + OptionKind.PREFERENCE
   },
   defaultUrl: {
-    value: "learnonly.pdf",
+    value: "cpp.pdf",
     kind: OptionKind.VIEWER
   },
   defaultZoomValue: {
