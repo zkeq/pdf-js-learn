@@ -154,7 +154,7 @@ const defaultOptions = {
     kind: OptionKind.API
   },
   disableAutoFetch: {
-    value: false,
+    value: true,
     kind: OptionKind.API + OptionKind.PREFERENCE
   },
   disableFontFace: {
